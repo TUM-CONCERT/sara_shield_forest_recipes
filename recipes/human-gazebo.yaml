@@ -1,0 +1,12 @@
+clone:
+  type: git
+  server: github.com
+  repository: TUM-CONCERT/human-gazebo.git
+  tag: main
+  ros_src: true
+  recursive: true
+
+build:
+  type: custom
+  cmd:
+    - echo "export ROBOT_RL_SIM_ROOT={srcdir}/../.." >> /home/user/.bashrc

@@ -1,0 +1,3 @@
+depends:
+  - concert_msgs
+  - human-gazebo

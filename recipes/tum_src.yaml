@@ -1,0 +1,5 @@
+depends:
+  - sara-shield
+  - concert_description
+  - centauro_cartesio  # steering and rolling IK modules
+  - base_estimation  # odometry

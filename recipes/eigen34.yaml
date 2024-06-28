@@ -1,0 +1,13 @@
+clone:
+  type: git
+  server: gitlab.com
+  repository: libeigen/eigen.git
+  tag: "3.4"
+  ros_src: true
+  recursive: true
+
+build:
+  type: cmake
+  
+post_build:
+  - sudo make install
