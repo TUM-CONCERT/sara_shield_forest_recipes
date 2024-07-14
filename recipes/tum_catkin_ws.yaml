@@ -1,3 +1,6 @@
 depends:
   - concert_msgs
   - human-gazebo
+  - rviz_plugin_humans
+  - rviz_plugin_sara_shield
+  - sara_shield_utils

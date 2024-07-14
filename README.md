@@ -38,6 +38,18 @@ To set up the CONCERT project workspace, follow the instructions listed here: ht
 
     Contains build instructions for the sara-shield-xbot2 repository [sara-shield-xbot2](https://github.com/TUM-CONCERT/sara-shield-xbot2)
 
+* `rviz_plugin_humans.yaml`
+    
+    Contains build instructions for the ros package [rviz_plugin_humans](https://github.com/TUM-CONCERT/rviz_plugin_humans)
+
+* `rviz_plugin_sara_shield.yaml`
+    
+    Contains build instructions for the ros package [rviz_plugin_sara_shield](https://github.com/TUM-CONCERT/rviz_plugin_sara_shield)
+
+* `sara_shield_utils.yaml`
+    
+    Contains build instructions for the ros package [sara_shield_utils](https://github.com/TUM-CONCERT/sara_shield_utils)
+
 
 # Notes
 

@@ -1,0 +1,7 @@
+clone:
+  type: git
+  server: github.com
+  repository: TUM-CONCERT/rviz_plugin_humans.git
+  tag: ros1
+  ros_src: true
+  recursive: true

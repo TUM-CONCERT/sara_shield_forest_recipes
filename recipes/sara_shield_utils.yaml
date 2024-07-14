@@ -1,0 +1,7 @@
+clone:
+  type: git
+  server: github.com
+  repository: TUM-CONCERT/sara_shield_utils.git
+  tag: ros1
+  ros_src: true
+  recursive: true
